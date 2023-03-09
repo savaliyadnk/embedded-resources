@@ -1,9 +1,5 @@
 # Embedded-HW-Resources
 
-## [JayCarlson](https://jaycarlson.net)
-1. [Embedded-Linux](https://jaycarlson.net/embedded-linux/)
-2. [Microcontrollers](https://jaycarlson.net/microcontrollers/)
-
 ## [Altium Academy](https://www.youtube.com/@AltiumAcademy/playlists) 42k
 1. [MCU STM32](https://www.youtube.com/watch?v=gFmm91c_mr8&list=PL3aaAq2OJU5HcbClqrOhqBDozF7HmxV-s&index=1&ab_channel=AltiumAcademy)
 2. [nRF52 Series](https://www.youtube.com/watch?v=CD2JqgvNp3o&list=PL3aaAq2OJU5HrrEQ_IOryoejLS8uf_Fp-&ab_channel=AltiumAcademy)
